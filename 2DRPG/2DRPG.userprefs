@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera_Follow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Assassin_Movement.cs" Line="48" Column="6" />
+      <File FileName="../../Unity2D/2DPower/Assets/Scripts/MoveLeftRight.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Camera_Follow.cs" Line="10" Column="17" />
+      <File FileName="../../Unity2D/2DPower/Assets/Scripts/CameraFollow2.cs" Line="46" Column="94" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Camera_Follow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
