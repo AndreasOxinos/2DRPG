@@ -17,8 +17,10 @@ public class Assassin_Movement : MonoBehaviour
 	
 	void Update ()
 	{
-		CheckMoveX ();
-		CheckMoveY();
+		if (IsOnTheGround ()) {
+			CheckMoveX ();
+			CheckMoveY ();
+		}
 	}
 
 	void CheckMoveX ()
@@ -36,7 +38,7 @@ public class Assassin_Movement : MonoBehaviour
 		transform.position += transform.right * Input.GetAxis (axisNameX) * SpeedX * Time.deltaTime;
 	}
 
-	void CheckMoveY()
+	void CheckMoveY ()
 	{
 		anim.SetFloat ("SpeedY", Input.GetAxis (axisNameY));
 		if (Input.GetAxis (axisNameY) < 0) {
@@ -50,4 +52,12 @@ public class Assassin_Movement : MonoBehaviour
 		}
 		transform.position += transform.up * Input.GetAxis (axisNameY) * SpeedY * Time.deltaTime;
 	}
+
+	//Need to check if we collide on the background.
+	bool IsOnTheGround()
+	{
+		return true;
+	}
+
+
 }
