@@ -14,9 +14,5 @@ public class Spawner : MonoBehaviour
         Vector3 position = new Vector3(spawner.position.x, spawner.position.y, player.transform.position.z);
         player.transform.position = position;
     }
-    
-    void Update()
-    {
-      //  player.transform.position = GameObject.FindGameObjectWithTag("Spawner").transform.position;    
-    }
+   
 }
