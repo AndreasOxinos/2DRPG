@@ -12,6 +12,8 @@ public class GameLogic : MonoBehaviour
         PlayerPrefsSetter setter = new PlayerPrefsSetter();
         setter.SetPlayerScene(SceneName);
 
+        GameObject GUI = (GameObject)Instantiate(Resources.Load("GameUI"));
+
 
     }
 

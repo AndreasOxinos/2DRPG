@@ -1,0 +1,117 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iPhonePlayer/EditorExtensions/UnityEditor.iOS.Extensions.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WP8Support/EditorExtensions/UnityEditor.WP8.Extensions.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/MetroSupport/EditorExtensions/UnityEditor.Metro.Extensions.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/BB10Player/EditorExtensions/UnityEditor.BB10.Extensions.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/EditorExtensions/UnityEditor.Android.Extensions.dll"
+-r:"C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.3.0\Unity.PackageManager.dll"
+-define:UNITY_STANDALONE_OSX
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_GAMECENTER
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_0
+-define:UNITY_4_3
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvDatabaseInspector.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvFindItem.cs
+Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs
+Assets/NGUI/Scripts/Editor/BMFontReader.cs
+Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+Assets/NGUI/Scripts/Editor/EventDelegateEditor.cs
+Assets/NGUI/Scripts/Editor/NGUIContextMenu.cs
+Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+Assets/NGUI/Scripts/Editor/NGUIHandles.cs
+Assets/NGUI/Scripts/Editor/NGUIHelp.cs
+Assets/NGUI/Scripts/Editor/NGUIJson.cs
+Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+Assets/NGUI/Scripts/Editor/NGUISettings.cs
+Assets/NGUI/Scripts/Editor/NGUISnap.cs
+Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+Assets/NGUI/Scripts/Editor/TweenAlphaEditor.cs
+Assets/NGUI/Scripts/Editor/TweenColorEditor.cs
+Assets/NGUI/Scripts/Editor/TweenFOVEditor.cs
+Assets/NGUI/Scripts/Editor/TweenHeightEditor.cs
+Assets/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs
+Assets/NGUI/Scripts/Editor/TweenPositionEditor.cs
+Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs
+Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs
+Assets/NGUI/Scripts/Editor/TweenTransformEditor.cs
+Assets/NGUI/Scripts/Editor/TweenVolumeEditor.cs
+Assets/NGUI/Scripts/Editor/TweenWidthEditor.cs
+Assets/NGUI/Scripts/Editor/UI2DSpriteEditor.cs
+Assets/NGUI/Scripts/Editor/UIAnchorEditor.cs
+Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+Assets/NGUI/Scripts/Editor/UIButtonColorEditor.cs
+Assets/NGUI/Scripts/Editor/UIButtonEditor.cs
+Assets/NGUI/Scripts/Editor/UICameraEditor.cs
+Assets/NGUI/Scripts/Editor/UICameraTool.cs
+Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+Assets/NGUI/Scripts/Editor/UIDragObjectEditor.cs
+Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+Assets/NGUI/Scripts/Editor/UIDrawCallViewer.cs
+Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+Assets/NGUI/Scripts/Editor/UIGridEditor.cs
+Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+Assets/NGUI/Scripts/Editor/UIInputEditor.cs
+Assets/NGUI/Scripts/Editor/UILabelInspector.cs
+Assets/NGUI/Scripts/Editor/UIPanelInspector.cs
+Assets/NGUI/Scripts/Editor/UIPanelTool.cs
+Assets/NGUI/Scripts/Editor/UIPlayAnimationEditor.cs
+Assets/NGUI/Scripts/Editor/UIPlayTweenEditor.cs
+Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs
+Assets/NGUI/Scripts/Editor/UIProgressBarEditor.cs
+Assets/NGUI/Scripts/Editor/UIRectEditor.cs
+Assets/NGUI/Scripts/Editor/UIRootEditor.cs
+Assets/NGUI/Scripts/Editor/UIScrollBarEditor.cs
+Assets/NGUI/Scripts/Editor/UIScrollViewEditor.cs
+Assets/NGUI/Scripts/Editor/UISliderEditor.cs
+Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+Assets/NGUI/Scripts/Editor/UISpriteInspector.cs
+Assets/NGUI/Scripts/Editor/UIStretchEditor.cs
+Assets/NGUI/Scripts/Editor/UITableEditor.cs
+Assets/NGUI/Scripts/Editor/UITextureInspector.cs
+Assets/NGUI/Scripts/Editor/UITexturePacker.cs
+Assets/NGUI/Scripts/Editor/UIToggleInspector.cs
+Assets/NGUI/Scripts/Editor/UITweenerEditor.cs
+Assets/NGUI/Scripts/Editor/UIWidgetContainerEditor.cs
+Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Xml.Linq.dll"
