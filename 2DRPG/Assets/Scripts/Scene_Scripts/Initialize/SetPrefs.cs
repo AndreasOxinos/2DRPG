@@ -7,7 +7,7 @@ public class SetPrefs : MonoBehaviour
     private string txt_name = "";
     void Start()
     {
-
+        PlayerPrefs.DeleteAll();
         skin = Resources.Load("myGuiSkin") as GUISkin;
         CheckName();
         CheckLevel();
@@ -25,6 +25,8 @@ public class SetPrefs : MonoBehaviour
         PlayerPrefs.SetInt("Health", 100);
         PlayerPrefs.SetString("Scene", "Start");
         PlayerPrefs.SetString("PlayerName", txt_name);
+        PlayerPrefs.SetInt("Points", 0);
+        PlayerPrefs.SetInt("Gold", 0);
         LoadAppropriateScene();
     }
 

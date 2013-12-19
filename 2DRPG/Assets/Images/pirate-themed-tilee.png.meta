@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 7ddd61edc27ed40d895e144ded0ca922
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: pirate-themed-tilee_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 483
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 480
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 473
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 416
+        width: 159
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 435
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 418
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 417
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 417
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 426
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 388
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 385
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 385
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 351
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 326
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288
+        width: 257
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 263
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_42
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 158
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 100
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 128
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 105
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 105
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 494
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 289
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 287
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: pirate-themed-tilee_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

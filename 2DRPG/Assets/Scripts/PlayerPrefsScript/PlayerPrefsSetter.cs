@@ -7,4 +7,10 @@ public class PlayerPrefsSetter
     {
         PlayerPrefs.SetString("Scene", sceneName);
     }
+
+    public void GivePlayerPoints(int points)
+    {
+        int currentPoints = PlayerPrefs.GetInt("Points");
+        PlayerPrefs.SetInt("Points", currentPoints + points);
+    }
 }

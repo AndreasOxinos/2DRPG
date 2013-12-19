@@ -1,33 +1,37 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player_Camera_General/Assassin_Movement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene_Scripts/Initialize/SetPrefs.cs">
     <Files>
+      <File FileName="Assets/Scripts/GameGUI/PlayerStats_GUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InteractiveObjects/Gem.cs" Line="31" Column="33" />
       <File FileName="Assets/Scripts/PlayerPrefsScript/PlayerPrefsSetter.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player_Camera_General/Spawner.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/Player_Camera_General/Spawner.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player_Camera_General/Camera_Follow.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Scene_Scripts/Initialize/SetPrefs.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player_Camera_General/GameLogic.cs" Line="9" Column="14" />
+      <File FileName="Assets/Scripts/Scene_Scripts/Initialize/SetPrefs.cs" Line="10" Column="33" />
+      <File FileName="Assets/Scripts/Player_Camera_General/GameLogic.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/PlayerPrefsScript/PlayerPrefsGetter.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player_Camera_General/CameraFollow.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player_Camera_General/PlayerMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/GameGUI/PlayerStats_GUI.cs" Line="18" Column="3" />
-      <File FileName="Assets/Scripts/Player_Camera_General/Assassin_Movement.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/Player_Camera_General/Assassin_Movement.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player_Camera_General/PlayerAttr.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Scene_Scripts/Start/Start_door.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scene_Scripts/0/StairsDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UIButtonColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/NGUI/Scripts/Interaction/UIKeyBinding.cs" Line="132" Column="80" />
+      <File FileName="Assets/Scripts/InteractiveObjects/Treasure.cs" Line="53" Column="6" />
+      <File FileName="Assets/Scripts/GameGUI/UIKeyBind.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
             <Node name="Scripts" expanded="True">
-              <Node name="Player_Camera_General" expanded="True">
-                <Node name="Assassin_Movement.cs" selected="True" />
-              </Node>
-              <Node name="PlayerPrefsScript" expanded="True" />
+              <Node name="GameGUI" expanded="True" />
+              <Node name="InteractiveObjects" expanded="True" />
               <Node name="Scene_Scripts" expanded="True">
-                <Node name="0" expanded="True" />
-                <Node name="Initialize" expanded="True" />
-                <Node name="Start" expanded="True" />
+                <Node name="Initialize" expanded="True">
+                  <Node name="SetPrefs.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -36,9 +40,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/andreasoxinos/Documents/Github/2DRPG/2DRPG/Assets/Scripts/Player_Camera_General/Assassin_Movement.cs" line="18" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

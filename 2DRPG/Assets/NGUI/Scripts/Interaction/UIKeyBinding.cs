@@ -1,20 +1,14 @@
-//----------------------------------------------
-//            NGUI: Next-Gen UI kit
-// Copyright © 2011-2013 Tasharen Entertainment
-//----------------------------------------------
 
 using UnityEngine;
 
-/// <summary>
-/// This class makes it possible to activate or select something by pressing a key (such as space bar for example).
-/// </summary>
 
 [AddComponentMenu("Game/UI/Key Binding")]
-public class UIKeyBinding : MonoBehaviour
+public class UIKeyBind : MonoBehaviour
 {
 	public enum Action
 	{
 		PressAndClick,
+        Click,
 		Select,
 	}
 
@@ -131,5 +125,12 @@ public class UIKeyBinding : MonoBehaviour
 				}
 			}
 		}
+        else if (action == Action.Click)
+        {
+            if(Input.GetKeyDown(keyCode))
+            {
+                SendMessage("OnClick", SendMessageOptions.DontRequireReceiver);
+            }
+        }
 	}
 }

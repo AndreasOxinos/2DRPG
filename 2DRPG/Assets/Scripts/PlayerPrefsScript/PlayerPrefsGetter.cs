@@ -17,4 +17,9 @@ public class PlayerPrefsGetter
     {
         return PlayerPrefs.GetString("PlayerName");
     }
+
+    public int GetPoints()
+    {
+        return PlayerPrefs.GetInt("Points");
+    }
 }

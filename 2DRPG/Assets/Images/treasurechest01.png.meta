@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 5a9f1a4fd95db4431b2bc60aa22746ee
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: treasurechest01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 240
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 176
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 144
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 192
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_54
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 192
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_59
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_60
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_61
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 80
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 193
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_68
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 48
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_70
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 16
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_71
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 16
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: treasurechest01_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 16
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
