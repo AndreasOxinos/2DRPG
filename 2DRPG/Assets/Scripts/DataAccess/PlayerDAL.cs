@@ -8,9 +8,9 @@ using System.IO;
 
 public class PlayerDAL
 {
-    public EntityResponse<PlayerDTO> LoadPlayerData()
+    public PlayerDTO LoadPlayerData()
     {
-        EntityResponse<PlayerDTO> playerObject = new EntityResponse<PlayerDTO>();
+        PlayerDTO playerObject = new PlayerDTO();
         string filepath = Application.dataPath + @"/Data/Player.xml";
         XmlDocument xmlDoc = new XmlDocument();
         try
@@ -33,11 +33,11 @@ public class PlayerDAL
                     {
                         if (playerItems.Name == "HP")
                         {
-                            playerObject.Data.HP = int.Parse(playerItems.InnerText); 
+                            playerObject.HP = int.Parse(playerItems.InnerText); 
                         }
                         if (playerItems.Name == "Level")
                         {
-                            playerObject.Data.Level = playerItems.InnerText; 
+                            playerObject.Level = playerItems.InnerText; 
                         }
                     }
                 }
@@ -45,11 +45,11 @@ public class PlayerDAL
             }
             Debug.Log("4.Loops Ended!");
 
-            playerObject.IsCallSuccessful = true;
+           
         } 
         catch (System.Exception ex)
         {
-            playerObject.IsCallSuccessful = false;
+            
             Debug.Log(ex.Message);
             //TODO: Add LOGGING
         }

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.2DRPG.CSharp", "UnityVS.2DRPG.CSharp.csproj", "{94B3D405-36CB-0CF5-C81C-A5DF48E4276F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.2DRPG.CSharp.Editor", "UnityVS.2DRPG.CSharp.Editor.csproj", "{43948D3A-301B-442A-E9A1-D2FD851A0D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B3D405-36CB-0CF5-C81C-A5DF48E4276F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B3D405-36CB-0CF5-C81C-A5DF48E4276F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B3D405-36CB-0CF5-C81C-A5DF48E4276F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B3D405-36CB-0CF5-C81C-A5DF48E4276F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43948D3A-301B-442A-E9A1-D2FD851A0D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43948D3A-301B-442A-E9A1-D2FD851A0D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43948D3A-301B-442A-E9A1-D2FD851A0D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43948D3A-301B-442A-E9A1-D2FD851A0D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
