@@ -10,23 +10,36 @@ public class PlayerStats_GUI : MonoBehaviour {
     public UILabel lbl_pointsGlobal;
 
     private PlayerPrefsGetter getter = new PlayerPrefsGetter();
-
+    private EntityResponse<PlayerDTO> playerStats = new EntityResponse<PlayerDTO>();
 
 	void Start () 
     {
-        lbl_health.text = "HP: " + getter.GetHealth().ToString();
-        lbl_level.text = "Level:" + getter.GetLevel().ToString();
-        lbl_name.text = getter.GetName();
-        lbl_points.text = "Points:" + getter.GetPoints().ToString(); 
-        lbl_pointsGlobal.text = "Points:" + getter.GetPoints().ToString();
+        PlayerDAL dal = new PlayerDAL();
+        playerStats =  dal.LoadPlayerData();
+
+        if(playerStats.IsCallSuccessful)
+        {
+            lbl_health.text = "HP: " + playerStats.Data.HP.ToString();
+            lbl_level.text = "Level:" + playerStats.Data.Level.ToString();
+            lbl_name.text = getter.GetName();
+            lbl_points.text = "Points:" + getter.GetPoints().ToString(); 
+            lbl_pointsGlobal.text = "Points:" + getter.GetPoints().ToString();
+        }
+
+
     }
 	
 	void Update () 
     {
-        lbl_health.text = "HP: " + getter.GetHealth().ToString();
-        lbl_level.text = "Level:" + getter.GetLevel().ToString();
-        lbl_name.text = getter.GetName();
-        lbl_points.text = "Points:" + getter.GetPoints().ToString(); 
-        lbl_pointsGlobal.text = "Points:" + getter.GetPoints().ToString();
+        if(playerStats.IsCallSuccessful)
+        {
+            lbl_health.text = "HP: " + playerStats.Data.HP.ToString();
+            lbl_level.text = "Level:" + playerStats.Data.Level.ToString();
+            lbl_name.text = getter.GetName();
+            lbl_points.text = "Points:" + getter.GetPoints().ToString(); 
+            lbl_pointsGlobal.text = "Points:" + getter.GetPoints().ToString();
+        }
 	}
+
+
 }
