@@ -7,5 +7,11 @@ C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\bin\Debug\nunit.framework.dll
 C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\bin\Debug\Unity.DataContract.dll
 C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
 C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\obj\Debug\UnityVS.2DRPG.CSharp.csprojResolveAssemblyReference.cache
-C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\obj\Debug\UnityVS.2DRPG.CSharp.dll
-C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\obj\Debug\UnityVS.2DRPG.CSharp.pdb
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\obj\Debug\Assembly-CSharp.dll
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\andreas\Documents\GitHub\2DRPG\2DRPG\obj\Debug\Assembly-CSharp.pdb

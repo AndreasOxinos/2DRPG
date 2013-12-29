@@ -154,6 +154,9 @@
  <Reference Include="SyntaxTree.VisualStudio.Unity.Messaging">
  <HintPath>Assets\UnityVS\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll</HintPath>
  </Reference>
+ <Reference Include="UnityVS.VersionSpecific">
+ <HintPath>Assets\UnityVS\Editor\UnityVS.VersionSpecific.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
  </Reference>

@@ -176,6 +176,10 @@
      <Compile Include="Assets\Scripts\GameGUI\UIKeyBind.cs" />
      <Compile Include="Assets\Scripts\InteractiveObjects\Gem.cs" />
      <Compile Include="Assets\Scripts\InteractiveObjects\Treasure.cs" />
+     <Compile Include="Assets\Scripts\Inventory\Enums\WeaponType.cs" />
+     <Compile Include="Assets\Scripts\Inventory\Logic\InventoryM.cs" />
+     <Compile Include="Assets\Scripts\Inventory\Logic\Item.cs" />
+     <Compile Include="Assets\Scripts\Inventory\Logic\PickableItemProperties.cs" />
      <Compile Include="Assets\Scripts\PlayerPrefsScript\PlayerPrefsGetter.cs" />
      <Compile Include="Assets\Scripts\PlayerPrefsScript\PlayerPrefsSetter.cs" />
      <Compile Include="Assets\Scripts\Player_Camera_General\Assassin_Movement.cs" />
